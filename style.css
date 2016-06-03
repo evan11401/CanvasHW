@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2016/6/2, 下午 03:15:13
+    Author     : user
+*/
+#talkbox{
+    background-image: url(dialog.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+#myCanvas{
+    background-image: url(green.jpg);
+}
